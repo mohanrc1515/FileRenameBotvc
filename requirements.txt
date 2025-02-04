@@ -1,7 +1,6 @@
 aiohttp
 beautifulsoup4
 hachoir
-numpy
 Pillow
 ffmpeg-python
 ffmpeg
@@ -12,3 +11,4 @@ psycopg2-binary
 feedparser
 tgcrypto
 youtube-dl
+numpy
